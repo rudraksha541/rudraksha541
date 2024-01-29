@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi! I am Rudraksha Kambale 
 
-<!--
-**rudraksha541/rudraksha541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A passionate self-taught Front End  Web developer from india.🌏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**SKILLS**  
+
+
+<img src="https://skillicons.dev/icons?i=c,java" alt="skill-icon"> 
+<img src="https://skillicons.dev/icons?i=html,css" alt="skill-icon">   
+<img src="https://skillicons.dev/icons?i=js,py" alt="skill-icon">
+
+**SOCIALS**
+
+https://bit.ly/rudraksha-kambale01
