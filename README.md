@@ -1,4 +1,4 @@
-Hi! I am Rudraksha Kambale 
+# Hi! I am Rudraksha Kambale
 
 
 A passionate self-taught Front End  Web developer from india.🌏
@@ -15,4 +15,4 @@ A passionate self-taught Front End  Web developer from india.🌏
 
 **SOCIALS**
 
-https://bit.ly/rudraksha-kambale01
+[LinkedIn](https://bit.ly/rudraksha-kambale01)
