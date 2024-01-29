@@ -9,7 +9,7 @@ A passionate self-taught Front End  Web developer from india.🌏
 ### SKILLS  
 
 
-<img src="https://skillicons.dev/icons?i=c,java" alt="skill-icon"> &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css" alt="skill-icon">  &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=js,py" alt="skill-icon"> &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=git,github" alt="skill-icon">
+<img src="https://skillicons.dev/icons?i=c,java" alt="skill-icon"> &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css" alt="skill-icon"> <br> <br> <img src="https://skillicons.dev/icons?i=js,py" alt="skill-icon"> &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=git,github" alt="skill-icon">
 
 ### SOCIALS
 
